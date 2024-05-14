@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <plot name="Жизнь семьи Мао" ID="0" importance="2"/>
+  <plot name="Поездка в Беларусь" ID="1" importance="0"/>
+  <plot name="Возрождение Сонары" ID="2" importance="1" description="Линь возрождает сонару при помощи бабки(животного), но плохо с ней уживается из-за того, что она похожа на его деда" steps="Resolution steps">
+    <step name="Помощь ближнему" ID="0" meta="" summary=""/>
+    <step name="Возвращение назад" ID="1" meta="" summary=""/>
+    <step name="Разбитые ожидания" ID="2" meta="" summary=""/>
+  </plot>
+  <plot name="Становление Adorabat матерью" ID="3" importance="0" characters="0" steps="Resolution steps">
+    <step name="Начало" ID="0" meta="" summary="Невозможен аборт&#10;папа парня к ней негативно относится"/>
+    <step name="Рождение" ID="1" meta="" summary=""/>
+    <step name="Проблемы" ID="2" meta="" summary="Adorabat устала и просит совета у других"/>
+  </plot>
+</root>

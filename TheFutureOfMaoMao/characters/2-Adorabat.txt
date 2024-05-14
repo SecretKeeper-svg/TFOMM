@@ -1,0 +1,5 @@
+Name:                Adorabat
+ID:                  2
+Importance:          2
+POV:                 False
+Color:               #00fdff

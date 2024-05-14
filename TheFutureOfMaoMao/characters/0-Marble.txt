@@ -1,0 +1,7 @@
+Name:                Marble
+ID:                  0
+Importance:          0
+POV:                 False
+Full Summary:        Летучая мышь.  Белый с синими глазами. На животе изображена звезда.
+Notes:               Сын Adorabat и
+Color:               #00fdff
