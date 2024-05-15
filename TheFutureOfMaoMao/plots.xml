@@ -12,4 +12,5 @@
     <step name="Рождение" ID="1" meta="" summary=""/>
     <step name="Проблемы" ID="2" meta="" summary="Adorabat устала и просит совета у других"/>
   </plot>
+  <plot name="Ретсуко" ID="4" importance="0"/>
 </root>

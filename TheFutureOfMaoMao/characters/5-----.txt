@@ -1,0 +1,7 @@
+Name:                Нико
+ID:                  5
+Importance:          0
+POV:                 False
+Full Summary:        Сын Ретсуко
+                     Близнец
+Color:               #a2ab80

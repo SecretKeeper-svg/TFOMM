@@ -1,0 +1,7 @@
+Name:                Мико
+ID:                  4
+Importance:          0
+POV:                 False
+Full Summary:        Сын Ретсуко
+                     Близнец
+Color:               #e3e7d7

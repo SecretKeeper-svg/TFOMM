@@ -1,0 +1,5 @@
+Name:                Ретсуко
+ID:                  3
+Importance:          0
+POV:                 False
+Color:               #eaf388
