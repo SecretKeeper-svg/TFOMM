@@ -1,4 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.0">
-  <body/>
+  <body>
+    <outline name="Волшебный ноутбук" ID="0" description="Ноутбук добытый Линем как награда за помощь мистической лысой старухе(человеку). В комплекте зарядка.   На вид как Macbook air M3&#10;Открывает доступ в человеческий(наш) интернет"/>
+    <outline name="Vision" ID="1" description="В будущем iPodом станут очки виртуальной/дополненой реальности как Apple Vision Pro"/>
+  </body>
 </opml>
