@@ -1,7 +1,8 @@
 title:          Новая Жизнь
 ID:             12
 type:           folder
+status:         5
 compile:        2
-charCount:      22189
+charCount:      22793
 
 
