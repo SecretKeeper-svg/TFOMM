@@ -30,7 +30,7 @@
     "openIndexes": [
         0,
         [
-            "40"
+            "81"
         ],
         null
     ],
@@ -87,7 +87,7 @@
         "Outline": {
             "Background": "Nothing",
             "Icon": "Nothing",
-            "Text": "Compile"
+            "Text": "Nothing"
         },
         "Tree": {
             "Background": "Nothing",
