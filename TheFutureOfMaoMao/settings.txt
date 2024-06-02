@@ -1,5 +1,5 @@
 {
-    "autoSave": false,
+    "autoSave": true,
     "autoSaveDelay": 5,
     "autoSaveNoChanges": true,
     "autoSaveNoChangesDelay": 5,
@@ -43,7 +43,7 @@
     ],
     "progressChars": false,
     "revisions": {
-        "keep": false,
+        "keep": true,
         "rules": {
             "2592000": 86400.0,
             "3600": 600.0,
@@ -51,7 +51,7 @@
             "86400": 3600.0,
             "null": 604800.0
         },
-        "smartremove": false
+        "smartremove": true
     },
     "saveOnQuit": true,
     "saveToZip": false,
