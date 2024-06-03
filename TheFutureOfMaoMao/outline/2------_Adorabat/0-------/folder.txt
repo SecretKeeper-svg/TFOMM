@@ -1,7 +1,6 @@
 title:          Начало
 ID:             116
 type:           folder
-status:         4
 compile:        2
 charCount:      7548
 
