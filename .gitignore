@@ -1,4 +1,6 @@
-
+images/*
 TheFutureOfMaoMao/outline/.DS_Store
 TheFutureOfMaoMao/.DS_Store
 **/*.DS_Store
+Book/*
+images
