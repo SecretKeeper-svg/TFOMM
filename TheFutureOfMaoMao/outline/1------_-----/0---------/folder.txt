@@ -1,8 +1,8 @@
 title:          Рождение
 ID:             13
 type:           folder
-status:         7
-compile:        2
-charCount:      3681
+status:         0
+compile:        0
+charCount:      3713
 
 
