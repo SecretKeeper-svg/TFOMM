@@ -1,6 +1,8 @@
 title:          Шоковая терапия
 ID:             18
 type:           folder
+notes:          Хочу добавить про танцы и перед сном
+status:         4
 compile:        0
 charCount:      3398
 
