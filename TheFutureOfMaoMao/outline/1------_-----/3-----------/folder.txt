@@ -1,8 +1,0 @@
-title:          Фотография
-ID:             21
-type:           folder
-label:          1
-compile:        0
-charCount:      116
-
-

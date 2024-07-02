@@ -42,7 +42,7 @@
     ],
     "progressChars": false,
     "revisions": {
-        "keep": true,
+        "keep": false,
         "rules": {
             "2592000": 86400.0,
             "3600": 600.0,

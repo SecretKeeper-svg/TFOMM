@@ -2,6 +2,6 @@ title:          Шоковая терапия
 ID:             18
 type:           folder
 compile:        0
-charCount:      6738
+charCount:      3398
 
 
