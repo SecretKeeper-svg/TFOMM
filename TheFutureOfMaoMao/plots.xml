@@ -13,4 +13,13 @@
     <step name="Проблемы" ID="2" meta="" summary="Adorabat устала и просит совета у других"/>
   </plot>
   <plot name="Ретсуко" ID="4" importance="0"/>
+  <plot name="Побег из дома Badgerclops и Adorabat" ID="5" importance="0" steps="Resolution steps">
+    <step name="Решение" ID="0" meta="" summary=""/>
+    <step name="Побег" ID="1" meta="" summary=""/>
+    <step name="Прибытие" ID="2" meta="" summary=""/>
+    <step name="Сомнение" ID="3" meta="" summary="Badgerclops пытается преодолеть совесть&#10;"/>
+    <step name="Атака монстра" ID="4" meta="" summary="Монстр атакует деревню"/>
+    <step name="Крайняя точка" ID="5" meta="" summary="Badgerclops ломается&#10;"/>
+    <step name="Получение совета" ID="6" meta="" summary="Badgerclops спрашивает совета через Adorabat"/>
+  </plot>
 </root>
