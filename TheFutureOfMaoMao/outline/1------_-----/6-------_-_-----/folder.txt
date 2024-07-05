@@ -1,7 +1,7 @@
 title:          Встеча с дедом
 ID:             30
 type:           folder
-status:         4
+status:         1
 compile:        0
 charCount:      5544
 
