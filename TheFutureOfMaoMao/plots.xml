@@ -7,7 +7,7 @@
     <step name="Возвращение назад" ID="1" meta="" summary=""/>
     <step name="Разбитые ожидания" ID="2" meta="" summary=""/>
   </plot>
-  <plot name="Становление Adorabat матерью" ID="3" importance="0" characters="0" steps="Resolution steps">
+  <plot name="Становление Adorabat матерью" ID="3" importance="1" characters="0" steps="Resolution steps">
     <step name="Начало" ID="0" meta="" summary="Невозможен аборт&#10;папа парня к ней негативно относится"/>
     <step name="Рождение" ID="1" meta="" summary=""/>
     <step name="Проблемы" ID="2" meta="" summary="Adorabat устала и просит совета у других"/>
@@ -21,5 +21,9 @@
     <step name="Атака монстра" ID="4" meta="" summary="Монстр атакует деревню"/>
     <step name="Крайняя точка" ID="5" meta="" summary="Badgerclops ломается&#10;"/>
     <step name="Получение совета" ID="6" meta="" summary="Badgerclops спрашивает совета через Adorabat"/>
+  </plot>
+  <plot name="Демпинг добром" ID="6" importance="0" description="Линь пытается сделать Orangusnake добрым показывая ему эмпатию" steps="Resolution steps">
+    <step name="Узнавание истории" ID="0" meta="" summary=""/>
+    <step name="Демпинг" ID="1" meta="" summary=""/>
   </plot>
 </root>
