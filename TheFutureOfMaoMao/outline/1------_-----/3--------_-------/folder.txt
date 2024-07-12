@@ -4,6 +4,6 @@ type:           folder
 notes:          Хочу добавить про танцы и перед сном
 status:         4
 compile:        0
-charCount:      6918
+charCount:      8182
 
 
