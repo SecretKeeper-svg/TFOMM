@@ -2,7 +2,6 @@ title:          Демпинг добром
 ID:             456
 type:           folder
 compile:        0
-customIcon:     green-folder
 charCount:      7276
 
 

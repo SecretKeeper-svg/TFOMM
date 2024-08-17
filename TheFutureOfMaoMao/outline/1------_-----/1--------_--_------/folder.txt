@@ -2,8 +2,7 @@ title:          Сходить за хлебом
 ID:             273
 type:           folder
 status:         5
-compile:        2
-customIcon:     green-folder
+compile:        0
 charCount:      7512
 
 

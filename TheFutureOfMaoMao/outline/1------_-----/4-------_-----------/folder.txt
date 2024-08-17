@@ -2,7 +2,8 @@ title:          Первое выступление
 ID:             536
 type:           folder
 label:          2
-compile:        0
+compile:        2
 customIcon:     blue-folder
+charCount:      904
 
 
